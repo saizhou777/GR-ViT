@@ -1,5 +1,5 @@
 # GR-ViT
-## 🐱 Abstract
+## 🌟 Abstract
 <p style="text-align: justify;">
 We introduce ...
 </p>
