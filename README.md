@@ -1,8 +1,9 @@
 # GR-ViT
-## 🌟 submitted to ...
+<p style="text-align: justify;">
+submitted to ...
+</p>
 ## 🌟 Abstract
 <p style="text-align: justify;">
 We introduce ...
 </p>
 
-# This is a comment.
