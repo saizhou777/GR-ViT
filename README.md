@@ -2,5 +2,8 @@
 will be submitted to ...
 
 
-## 🌟 Trianing Scripts
+## 🌟 1. Trianing Scripts
 To train GR-ViT-mini on the custom plankton dataset with one gpu, please run:
+```bash
+CUDA_VISIBLE_DEVICES=0 python train.py
+```
