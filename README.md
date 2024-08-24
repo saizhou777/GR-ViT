@@ -30,7 +30,7 @@ Validation Loss: 0.1782, Validation Accuracy: 0.9517
 
 
 ## 👏 4. Acknowledgement
-This repository is built using the [Groupmixformer](https://github.com/AILab-CVC/GroupMixFormer) and [deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) repositories. We particularly appreciate their open-source efforts.
+This repository is built using [deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) and [Groupmixformer](https://github.com/AILab-CVC/GroupMixFormer) repositories. We particularly appreciate their open-source efforts.
 
 
 ## 📖 5. Citation
