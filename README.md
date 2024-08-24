@@ -1,7 +1,5 @@
 # GR-ViT
-submitted to ...
-
-## 🌟 Abstract
-We introduce ...
+will be submitted to ...
 
 
+## 🌟 Model training
