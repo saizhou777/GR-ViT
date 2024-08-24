@@ -2,4 +2,5 @@
 will be submitted to ...
 
 
-## 🌟 Model training
+## 🌟 Trianing Scripts
+To train GR-ViT-mini on the custom plankton dataset with one gpu, please run:
