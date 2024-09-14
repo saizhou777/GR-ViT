@@ -3,7 +3,7 @@ submitted to IEEE TCSVT
 
 
 ## 🍀 1. Custom Plankton Dataset
-The custom plankton dataset is available at ...
+The custom plankton dataset is available at [Hugging Face](https://huggingface.co/datasets/saizhou777/A_custom_plankton_dataset_from_WHOI_plankton/tree/main).
 
 
 ## 🌟 2. Trianing Scripts
