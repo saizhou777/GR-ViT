@@ -1,0 +1,13 @@
+MODEL:
+  TYPE: gr_vit
+  NAME: gr_vit
+  GMA:
+    EMBEDDING_DIMS: [40, 80, 160, 160]
+    SERIAL_DEPTHS: [2, 2, 8, 4]
+    MLP_RATIOS: [2, 2, 2, 2]
+    DROP_PATH_RATE: 0.0
+  # PRETRAINED: ./pretrained/grvit_tiny.pth ## uncomment this line to use pretrained model
+TRAIN:
+  EPOCHS: 300
+  WARMUP_EPOCHS: 20
+
