@@ -1,5 +1,5 @@
 # GR-ViT
-will be submitted to ...
+submitted to IEEE TCSVT
 
 
 ## 🍀 1. Custom Plankton Dataset
